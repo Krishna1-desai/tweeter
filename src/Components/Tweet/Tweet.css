@@ -1,0 +1,32 @@
+
+
+.tweet-box{
+    display: flex;
+    padding: 12px;
+}
+
+.tweet-footer{
+    font-size: smaller;
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-box{
+    width:9%;
+}
+
+img{
+    border-radius: 50%;
+    max-width: 55px;
+}
+
+.content-box{
+    width: 80%;
+    padding: 0px 12px 12px 12px;
+}
+
+
+.tweet-text{
+    font-size: smaller;
+}

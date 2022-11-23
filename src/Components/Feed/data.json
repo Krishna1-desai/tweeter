@@ -1,0 +1,30 @@
+[{
+    "header":"Trending in Sports",
+    "text":"cricket",
+    "tweetCount":"50k Tweets"
+
+},
+
+{
+
+    "header":"Trending in Buisiness",
+    "text":"Election",
+    "tweetCount":"30k Tweets"
+
+},
+
+{
+    "header":"Trending in India",
+    "text":"Elon Musk",
+    "tweetCount":"20k Tweets"
+
+},
+
+{
+    "header":"Trending in World",
+    "text":"Russia War",
+    "tweetCount":"2.5M Tweets"
+
+}
+
+]

@@ -1,0 +1,17 @@
+.header_small{
+    font-size: small;
+    margin: 6px 0;
+}
+
+.text{
+    font-size: large;
+    font-weight: bold;
+}
+
+p{
+    margin-bottom: 3px !important;
+}
+
+.Trending_main{
+    padding: 12px;
+}
